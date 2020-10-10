@@ -1,7 +1,7 @@
 # GitGuide
 
 ## 标识
- ![1](https://img.shields.io/badge/LICENSE-Apache%202.0-blue.svg)![2](https://img.shields.io/badge/CN-ESIDE-orange.svg?longCache=true)![3](https://img.shields.io/badge/VERSION-v2.0.0-red.svg?longCache=true) ![4](https://img.shields.io/badge/AUTHOR-LEOBOD-green.svg?longCache=true)
+ ![1](https://img.shields.io/badge/LICENSE-Apache%202.0-blue.svg) ![2](https://img.shields.io/badge/CN-ESIDE-orange.svg?longCache=true) ![3](https://img.shields.io/badge/VERSION-v2.0.0-red.svg?longCache=true) ![4](https://img.shields.io/badge/AUTHOR-LEOBOD-green.svg?longCache=true)
 
 
 
