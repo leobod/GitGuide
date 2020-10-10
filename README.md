@@ -1,15 +1,49 @@
 # GitGuide
 
-![https://img.shields.io/badge/license-Apache%202.0-blue.svg?longCache=true&style=flat-square](https://img.shields.io/badge/license-Apache%202.0-blue.svg?longCache=true&style=flat-square)
+## 标识
+ ![1](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
+
+ ![ESIDE.CN](https://img.shields.io/badge/CN-ESIDE-orange.svg?longCache=true)
+
+ ![v2.0.0](https://img.shields.io/badge/version-v2.0.0-red.svg?longCache=true) 
 
 
-> 作者：leobod	创建时间:2019/02/13 修改时间:2019/10/22
 
-## 章节说明
-+ chapter01 主要介绍什么是Git 以及如何安装Git
-+ chapter02 主要记录如何使用Git ，包括Git的基本流程、Git 的状态查看、Git状态重置…………
-+ chapter03 主要介绍Git的分支管理
-+ chapter04 主要记录 GIt的远程设置，如何连接 GItHub 如何做本地与GitHub同步，提交、拉取
+## 说明
+
++ 作者：leobod	
++ 创建时间: 2019-02-13
++ 一版修改: 2019-10-22 
++ 二版修改: 2020-10-10
+
+
+
+## 文件结构
++ chapter01 包括: 
+  + [1.Git的介绍与安装说明](./chapter01/)
+  + [2.Git的配置](./chapter01/)
+  + [3.获取Git仓库](./chapter01/)
+  + [4.Git用于理解的图示](./chapter01/)
++ chapter02 包括: 
+  + [1.Git 最基本流程](./chapter02/)
+  + [2.Git 状态查看](./chapter02/)
+  + [3.Git 状态重置 或者 回滚](./chapter02/)
+  + [4.Git Diff 差异分析](./chapter02/)
+  + [5.Git 文件删除、重命名](./chapter02/)
+  + [6.Git之gitignore的使用](./chapter02/)
++ chapter03 包括: 
+  + [1.Git 分支管理](./chapter03/)
+  + [2.Git的分支处理](./chapter03/)
+  + [3.Git分支处理图示](./chapter03/)
++ chapter04 包括: 
+  + [1.Git 远程分支管理](./chapter04/)
+  + [2.Git 本地与远程同步操作](./chapter04/)
+  + [3.Git 远程分支关联](./chapter04/)
+  + [4.Git对版本库的文件取消track](./chapter04/)
+  + [5.Git远程其他操作](./chapter04/)
++ [待补充]
+
+
 
 ## 内容组织方式 
 
@@ -20,6 +54,16 @@
 
 
 
-> 此文档仍有许多不足之处，如果有批评指点的意见请发送邮件至[leobod@eside.cn](mailto://leobod@eside.cn)
+#### 参与贡献
 
-> [关注作者更多内容，请点击查看 LEOBOD 的个人主页](http://www.leobod.cn)
+发送邮件到: join@eside.cn
+
+或者发送到: [leobod@eside.cn](mailto://leobod@eside.cn)
+
+#### 补充
+
+1.  使用 Readme.md 来做首页说明。
+2.  使用LICENSE用来存储使用的许可原文
+3.  使用SPECIFY.md来对许可进一步补充，如果有的话。
+4.  LEOBOD 的个人主页。 [www.leobod.cn](https://www.leobod.cn)
+5.  ESIDE.CN 欢迎所有志同道合的伙伴们一起交流。 [www.eside.cn](https://www.eside.cn)
